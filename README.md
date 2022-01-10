@@ -1,0 +1,2 @@
+# My-First-Website using Tailwind css
+Hello people , This repository contains about by first ever Website which is created using Tailwind css. It contains 'Home', 'About Me', 'Contacts' and 'Blogs' web pages.
